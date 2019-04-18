@@ -1,9 +1,5 @@
 //
 //  NACustomBannerPageControl.swift
-//  10000114CarProject
-//
-//  Created by 张晓滨 on 2019/4/3.
-//  Copyright © 2019年 一万一一四. All rights reserved.
 //
 import UIKit
 
